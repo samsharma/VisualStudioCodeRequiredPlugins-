@@ -1,4 +1,4 @@
-Name: Auto Rename Tag
+###Name: Auto Rename Tag
 Id: formulahendry.auto-rename-tag
 Description: Auto rename paired HTML/XML tag
 Version: 0.1.6
